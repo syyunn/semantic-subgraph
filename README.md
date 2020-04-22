@@ -2,7 +2,8 @@
 General notion about generating subgraph upon semantic query
 
 ## Usages
-find T: G -> G' where |G'| < |G| for given Q where where Similarity(Q, EMBED(G')) < Similarity(Q, EMBED(RANDOM(G')))
+find T: G -> G' where |G'| < |G| for given Q and Similarity(Q, EMBED(G')) >> Similarity(Q, EMBED(RANDOM(G')))
+
 *RANDOM means Random Graph sampling and EMBED means any selcted Graph EMBEDDING
 
 ## Methodology
