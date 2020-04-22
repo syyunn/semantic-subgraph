@@ -2,4 +2,4 @@
 General notion about generating subgraph upon semantic query
 
 ## Methodology
-Prepare latent space that connects semantic meaning and latent space of entire graph. This will let the users to easily configure which partial section of graph need to be attended upon semantically reprsented question.
+Prepare latent space that generates subgraph when decoded. This will let the users to easily configure which subgraph of entire graph is required to be attended upon users' own semantic query/questions.
