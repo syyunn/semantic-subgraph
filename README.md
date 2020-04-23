@@ -19,6 +19,9 @@ Mining integrated semantic networks for drug repositioning opportunities
 semantic subgraphs for drug interaction analysis
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4736989/
 
+https://arxiv.org/pdf/1910.08288.pdf
+
+http://web.stanford.edu/class/cs341/project/Zhang-Yang-Lou_report.pdf
 ## Related
 ### Disentangled Latent Approach
 ### GraphVAE
