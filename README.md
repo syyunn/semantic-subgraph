@@ -5,7 +5,7 @@ General notion about generating subgraph upon semantic query
 Comprised of 1) direction 2)semantic-label
 
 ## Usages
-find T: (G, Q) -> G' where |G'| < |G| for a given semantic query Q such that SIM(Q, EMBED(G')) >> SIM(Q, EMBED(RANDOM(G')))
+Find T: (G, Q) -> G' where |G'| < |G| for a given semantic query Q such that SIM(Q, EMBED(G')) >> SIM(Q, EMBED(RANDOM(G')))
 
 *RANDOM := Random Graph sampling 
 *EMBED := any selcted Graph Embedding Algorithm
