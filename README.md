@@ -38,12 +38,15 @@ networks, called network motifs, are crucial to understanding the
 structure and function of these systems.
 https://cs.stanford.edu/people/jure/pubs/motifs-wsdm17.pdf
 
-Questions
+## Questions
 However, the role of
 network motifs in temporal networks, which contain many timestamped links between the nodes, is not yet well understood.
 
 . However, many systems are not static as the links between
 objects dynamically change over tim
+
+## HOO: Higher Order Organization
+https://snap.stanford.edu/higher-order/
 
 ## Related
 ### Disentangled Latent Approach
