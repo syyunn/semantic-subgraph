@@ -33,6 +33,10 @@ networks, called network motifs, are crucial to understanding the
 structure and function of these systems.
 https://cs.stanford.edu/people/jure/pubs/motifs-wsdm17.pdf
 
+Questions
+However, the role of
+network motifs in temporal networks, which contain many timestamped links between the nodes, is not yet well understood.
+
 ## Related
 ### Disentangled Latent Approach
 ### GraphVAE
