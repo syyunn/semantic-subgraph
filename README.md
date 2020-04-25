@@ -19,7 +19,7 @@ Prepare latent space that generates subgraph when decoded. This will let the use
 ## Direct literatures
 Mining integrated semantic networks for drug repositioning opportunities
 semantic subgraphs for drug interaction analysis
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4736989/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4736989/pdf/peerj-04-1558.pdf
 
 https://arxiv.org/pdf/1910.08288.pdf
 
