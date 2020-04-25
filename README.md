@@ -1,5 +1,7 @@
 ## Todos
 - [ ] define Temporal Edges in lobby graph
+  - which temporal edge fundamentally affect the politics?
+  - temporal edges among the most hevaily edged actors - company
 
 # Semantic-subgraph
 General notion about generating subgraph upon semantic query
