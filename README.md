@@ -37,6 +37,9 @@ Questions
 However, the role of
 network motifs in temporal networks, which contain many timestamped links between the nodes, is not yet well understood.
 
+. However, many systems are not static as the links between
+objects dynamically change over tim
+
 ## Related
 ### Disentangled Latent Approach
 ### GraphVAE
