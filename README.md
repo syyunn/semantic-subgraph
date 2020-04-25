@@ -26,6 +26,10 @@ https://arxiv.org/pdf/1910.08288.pdf
 https://pdfs.semanticscholar.org/f947/5f2ef3c186e17be45fa7ea7ca1c7537bb1ae.pdf
 
 http://web.stanford.edu/class/cs341/project/Zhang-Yang-Lou_report.pdf
+
+## Motifs
+https://cs.stanford.edu/people/jure/pubs/motifs-wsdm17.pdf
+
 ## Related
 ### Disentangled Latent Approach
 ### GraphVAE
