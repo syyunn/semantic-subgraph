@@ -1,3 +1,6 @@
+## Todos
+- [ ] define Temporal Edges in lobby graph
+
 # Semantic-subgraph
 General notion about generating subgraph upon semantic query
 
